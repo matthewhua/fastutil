@@ -30,7 +30,7 @@ import org.junit.Test;
 import it.unimi.dsi.fastutil.MainRunner;
 
 @SuppressWarnings("static-method")
-public class IntArrayListTest {
+class IntArrayListTest {
 
 	@SuppressWarnings("unlikely-arg-type")
 	@Test

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biz.aQute.bnd-5.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bnd/biz.aQute.bnd-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
